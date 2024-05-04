@@ -27,6 +27,6 @@ Woo-ri is a traditional Korean restaurant.
 - NodeJS
 
 ## Features 
-Email automation 
-Authentication 
-[Follows google webpage accessibility suggestions](https://support.google.com/sites/answer/7529116?hl=en)
+- Email automation 
+- Authentication 
+- [Follows google webpage accessibility suggestions](https://support.google.com/sites/answer/7529116?hl=en)
