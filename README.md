@@ -21,10 +21,10 @@ Woo-ri is a traditional Korean restaurant.
 
 
 ## MERN Stack
-MongoDB
-Express
-React
-NodeJS
+- MongoDB
+- Express
+- React
+- NodeJS
 
 ## Features 
 Email automation 
