@@ -3,14 +3,14 @@
 Woo-ri is a traditional Korean restaurant.
 
 - *Project Structure*
-- ```
+```
   root
     - sub
       + sub
     - sub
       + sub
 
-  ```
+```
 
 - *White paper*
 
