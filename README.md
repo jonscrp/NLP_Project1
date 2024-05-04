@@ -1,16 +1,23 @@
 
-## Website
+# Website
 Woo-ri is a traditional Korean restaurant.
 
-# Project Structure 
+- *Project Structure*
+- ```
+  root
+    - sub
+      + sub
+    - sub
+      + sub
 
-# White paper
+  ```
+
+- *White paper*
+
+- *Gray paper*
 
 
-# Gray paper 
-
-
-# Wire frames
+## Wire frames
 
 
 ## MERN Stack
